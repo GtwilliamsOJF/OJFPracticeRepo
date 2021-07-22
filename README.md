@@ -1,2 +1,1 @@
-Some Text That Is Different
-
+Some Different Text
